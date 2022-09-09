@@ -4,4 +4,4 @@ Mi primer repositorio en Github
 
 i love :cat:, :sunflower:, :moon: 
 
-i love :fire:, :rainbow:, :orange:
+
